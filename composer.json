@@ -1,0 +1,16 @@
+{
+    "name": "durjoi/neutrino",
+    "description": "PHP RESTfull MVC Framework",
+    "authors": [
+        {
+            "name": "Mehedi Hassan Durjoi",
+            "email": "m.h.durjoi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\":"./"
+        }
+    },
+    "require": {}
+}
